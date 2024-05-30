@@ -1,0 +1,1 @@
+### Provided is the source code and final research paper about the Eye Disease Classification project we discussed. The dataset is not provided due to size. Please also consider this was group effort so not all work is my own. 
